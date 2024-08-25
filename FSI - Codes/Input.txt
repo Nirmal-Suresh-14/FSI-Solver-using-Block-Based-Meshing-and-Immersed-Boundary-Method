@@ -1,0 +1,17 @@
+----- Block Based Mesh Generation -----
+
+General Information:
+----------------------------------------
+Number of Dimensions NDIM = 2
+Dimension of Domain [in m] (x, y, z)    = (12, 8)
+
+
+Block Information:
+----------------------------------------
+Dimension of the cell [in m] (x, y, z)      = (1, 1)
+Number of Cells per Dimension of the Block  = (2, 2)
+
+
+Tree Information:
+----------------------------------------
+Least Dimension of cells needed [in m]  = 0.01
